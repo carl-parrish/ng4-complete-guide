@@ -1,4 +1,4 @@
-# Ng4CompleteGuid
+# Ng4CompleteGuide
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.2.
 
